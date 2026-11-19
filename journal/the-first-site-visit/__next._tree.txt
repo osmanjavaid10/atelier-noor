@@ -1,0 +1,7 @@
+:HL["/atelier-noor/_next/static/chunks/239ixftxkx67y.css","style"]
+:HC["/",""]
+:HL["/atelier-noor/media/patio-door-1080.webp","image",{"type":"image/avif","fetchPriority":"high","imageSrcSet":"/atelier-noor/media/patio-door-480.avif 480w, /atelier-noor/media/patio-door-768.avif 768w, /atelier-noor/media/patio-door-1080.avif 1080w, /atelier-noor/media/patio-door-1440.avif 1440w, /atelier-noor/media/patio-door-1920.avif 1920w","imageSizes":"(min-width: 1600px) 1600px, 100vw"}]
+3:[["children",{"s":"__PAGE__","h":160}]]
+2:[["children",{"s":{"n":"slug","t":"d","k":"the-first-site-visit","s":[]},"h":65632,"c":"$Q3"}]]
+1:[["children",{"s":"journal","h":131136,"c":"$Q2"}]]
+0:{"b":"SlIsf8kwuT0l1SRRH6W-E","t":{"t":{"s":"","h":131088,"c":"$Q1"}}}

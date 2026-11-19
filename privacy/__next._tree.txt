@@ -1,0 +1,5 @@
+:HL["/atelier-noor/_next/static/chunks/239ixftxkx67y.css","style"]
+:HC["/",""]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"privacy","h":64,"c":"$Q2"}]]
+0:{"b":"SlIsf8kwuT0l1SRRH6W-E","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
